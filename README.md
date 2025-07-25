@@ -20,12 +20,20 @@ This project showcases **five popular pathfinding algorithms** implemented using
 | Depth-First Search       | `PathFindingUsingDFS.py`          | ❌ No             | ❌ No                      |
 | Greedy Best-First Search | `PathFindingUsingGreedy.py`       | ✅ Yes (only h)   | ❌ No                      |
 
+
+
 ---
+
 
 Author: Dharm Rathod 🛠️ BTech CSE-AIML Student | PPSU
 
 ![Dijkstra](https://github.com/user-attachments/assets/0add62d5-e438-4ffe-acde-085073bbfc3c)
 
+![DFS](https://github.com/user-attachments/assets/7b21aabb-31b3-4c84-8d11-5fd8bf949419)
 
+![BFS](https://github.com/user-attachments/assets/4ca1dca6-90aa-408d-b3b3-10461cf2287f)
 
+![Astar](https://github.com/user-attachments/assets/4d60593a-8439-4ae5-b7a4-ce05edd81339)
+
+![greedy](https://github.com/user-attachments/assets/45f79f78-9f66-4741-972c-bfe4644fd49d)
 
