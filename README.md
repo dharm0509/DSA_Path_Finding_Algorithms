@@ -12,13 +12,13 @@ This project showcases **five popular pathfinding algorithms** implemented using
 
 ## 📂 Algorithms Implemented
 
-| Algorithm Name           | File Name         | Uses Heuristic? | Guarantees Shortest Path? |
-|--------------------------|-------------------|------------------|----------------------------|
-| A* Search                | `astar.py`        | ✅ Yes (g + h)    | ✅ Yes                     |
-| Dijkstra's Algorithm     | `dijkstra.py`     | ❌ No             | ✅ Yes                     |
-| Breadth-First Search     | `bfs.py`          | ❌ No             | ✅ Yes (on unweighted grid)|
-| Depth-First Search       | `dfs.py`          | ❌ No             | ❌ No                      |
-| Greedy Best-First Search | `greedy.py`       | ✅ Yes (only h)   | ❌ No                      |
+| Algorithm Name           | File Name                         | Uses Heuristic?    | Guarantees Shortest Path? |
+|--------------------------|-----------------------------------|--------------------|----------------------------|
+| A* Search                | `PathFindingUsingAstar.py`        | ✅ Yes (g + h)    | ✅ Yes                     |
+| Dijkstra's Algorithm     | `PathFindingUsingDijkstra.py`     | ❌ No             | ✅ Yes                     |
+| Breadth-First Search     | `PathFindingUsingBFS.py`          | ❌ No             | ✅ Yes (on unweighted grid)|
+| Depth-First Search       | `PathFindingUsingDFS.py`          | ❌ No             | ❌ No                      |
+| Greedy Best-First Search | `PathFindingUsingGreedy.py`       | ✅ Yes (only h)   | ❌ No                      |
 
 ---
 
