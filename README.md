@@ -23,3 +23,9 @@ This project showcases **five popular pathfinding algorithms** implemented using
 ---
 
 Author: Dharm Rathod 🛠️ BTech CSE-AIML Student | PPSU
+
+![Dijkstra](https://github.com/user-attachments/assets/0add62d5-e438-4ffe-acde-085073bbfc3c)
+
+
+
+
